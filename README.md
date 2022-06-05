@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 🕺🍳
 
 Shaping the future of Digital Identity. Fascinated by Zero Knowledge Proof.
 
