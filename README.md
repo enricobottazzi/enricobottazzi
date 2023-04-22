@@ -1,6 +1,6 @@
 ### 🕺🍳
 
-Shaping the future of Digital Identity. Fascinated by Zero Knowledge Proof.
+Working with ZK.
 
 You can find me on: 
 
