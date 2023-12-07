@@ -1,6 +1,6 @@
 ### 🕺🍳
 
-Working with ZK.
+Engineer interested in cryptography.
 
 You can find me on: 
 
